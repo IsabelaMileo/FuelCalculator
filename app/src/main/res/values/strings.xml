@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">FuelCalculator</string>
+    <string name="txt_600_km">600 km</string>
+    <string name="txt_12_km_l">12 km/l</string>
+    <string name="txt_reais_preco">R$</string>
+    <string name="btn_calcular_novamente">Calcular Novamente</string>
+    <string name="txt_preco">Preço</string>
+    <string name="txt_consumo">Consumo</string>
+    <string name="dist_ncia">Distância</string>
+    <string name="txt_revisao_dados">Revisão dados inseridos</string>
+    <string name="txt_resultado_total">R$ 250.0</string>
+</resources>
