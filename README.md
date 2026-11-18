@@ -37,9 +37,22 @@ Além do cálculo prático, o projeto foi construído com foco em boas práticas
 
 ---
 
-## 👩‍💻 Autora
+## 📄 Licença
 
-Desenvolvido por Isabela Miléo
+Este projeto está sob a licença MIT.
+
+---
+
+## 🤝 Contribuições
+
+Contribuições são bem-vindas! Sinta-se à vontade para abrir issues e pull requests.
+
+
+---
+
+## 👩‍💻 Isabela Miléo
+
+Contatos:
 
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/IsabelaMileo)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/isabelamileo/)
